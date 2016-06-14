@@ -8,3 +8,4 @@ Add your username to this readme and submit a pull request:
 - [rgc](https://github.com/rgc)
 - [Capt. Lil'bit](https://github.com/shrimpnbits)
 - [andrewtpoe](https://github.com/andrewtpoe)
+- [jmar777](https://github.com/jmar777)
