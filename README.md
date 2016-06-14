@@ -1,6 +1,6 @@
 # Charleston Tech People
 
-Are you a chstech profressional and a github user?
+Are you a chstech professional and a github user?
 
 Add you username to this readme and submit a pull request:
 
