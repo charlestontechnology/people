@@ -18,3 +18,4 @@ Add your username to this readme and submit a pull request:
 - [Kevin Collins](https://github.com/kevincol54)
 - [PetePlays](https://github.com/peteplays)
 - [Stuart Grant | grantsru](https://github.com/grantsru)
+- [Michael C. Ippolito](https://github.com/michaelcippolito)
