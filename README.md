@@ -20,3 +20,4 @@ Add your username to this readme and submit a pull request:
 - [Stuart Grant | grantsru](https://github.com/grantsru)
 - [Michael C. Ippolito](https://github.com/michaelcippolito)
 - [Imee Cuison](https://github.com/imee12)
+- [Sean Ryan](https://github.com/designingsean)
