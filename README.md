@@ -25,3 +25,4 @@ Add your username to this readme and submit a pull request:
 - [Eugene Mah](https://github.com/imabug/)
 - [Heow Goodman](https://github.com/heow/)
 - [Dan Maher](https://github.com/toastchee)
+- [Tyler Hall](https://github.com/TillaTheHun0)
