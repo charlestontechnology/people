@@ -21,3 +21,4 @@ Add your username to this readme and submit a pull request:
 - [Michael C. Ippolito](https://github.com/michaelcippolito)
 - [Imee Cuison](https://github.com/imee12)
 - [Sean Ryan](https://github.com/designingsean)
+- [Bryan Chappell](https://github.com/bryanchappell)
