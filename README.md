@@ -27,3 +27,4 @@ Add your username to this readme and submit a pull request:
 - [Dan Maher](https://github.com/toastchee)
 - [Tyler Hall](https://github.com/TillaTheHun0)
 - [Lucius Nelson](https://github.com/datLucius)
+- [Akkuma](https://github.com/Akkuma)
